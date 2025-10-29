@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**aditibverse/aditibverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aditib-git/aditib-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
